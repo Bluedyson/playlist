@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T15:55:20.143Z",
+  "updatedAt": "2026-05-29T15:56:01.826Z",
   "lists": [
     {
       "id": "1779713734534",
@@ -601,9 +601,27 @@
           "thumb": "//i0.hdslb.com/bfs/archive/1531c23c81f0dc2ba4eaa8c11908a98083eb0b7b.jpg@100w_100h_1c.png"
         }
       ]
+    },
+    {
+      "id": "1780070131557",
+      "name": "纯音乐1",
+      "videos": [
+        {
+          "id": "1780070133488",
+          "url": "https://www.bilibili.com/video/BV1KW411u7GC/?vd_source=ce55fe61212a649a806da97f6b6b2d3d",
+          "title": "【紫罗兰永恒花园/OST】Evan Call-Never Coming Back_哔哩哔哩_bilibili",
+          "thumb": "//i2.hdslb.com/bfs/archive/ea4371c16af7d3c6e843079d5d0bcbf7f6ab04e6.jpg@100w_100h_1c.png"
+        },
+        {
+          "id": "1780070159599",
+          "url": "https://www.bilibili.com/video/BV1re4y1e7qD?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-fjzqj.1780070150819.382&vd_source=ce55fe61212a649a806da97f6b6b2d3d",
+          "title": "《The Voice in My Heart》【4K/杜比视界/杜比音效】【紫罗兰永恒花园音乐MV计划】#1_哔哩哔哩_bilibili",
+          "thumb": "//i0.hdslb.com/bfs/archive/defa8ecb94916e1d7ea1bf3693b1dff5494215d6.jpg@100w_100h_1c.png"
+        }
+      ]
     }
   ],
-  "currentListId": "1779713734534",
+  "currentListId": "1780070131557",
   "currentIndex": 0,
   "playMode": "loop",
   "autoJump": false,
