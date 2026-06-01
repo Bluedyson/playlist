@@ -190,6 +190,12 @@
           "url": "https://www.bilibili.com/video/BV1gg4y1b7Gw?spm_id_from=333.788.player.switch&vd_source=ce55fe61212a649a806da97f6b6b2d3d",
           "title": "【4K60FPS】张学友经典歌曲十五分钟封神现场！人生必看的现场！_哔哩哔哩_bilibili",
           "thumb": "//i1.hdslb.com/bfs/archive/876c391531402f341bf6f6faa836d4313cd5d7de.jpg@100w_100h_1c.png"
+        },
+        {
+          "id": "1780314623494",
+          "url": "https://www.bilibili.com/video/BV1dh4y1Q7q3/?spm_id_from=333.337.search-card.all.click&vd_source=ce55fe61212a649a806da97f6b6b2d3d",
+          "title": "【经典翻唱】张学友《被遗忘的时光》、《新不了情》、《当爱已成往事》，深情三连唱！_哔哩哔哩_bilibili",
+          "thumb": "//i2.hdslb.com/bfs/archive/85ea1c882b0748e89c503bc5db8b605d88305f85.jpg@100w_100h_1c.png"
         }
       ]
     },
@@ -644,7 +650,7 @@
       ]
     }
   ],
-  "currentListId": "1779713734534",
+  "currentListId": "1779894637011",
   "currentIndex": 0,
   "playMode": "loop",
   "autoJump": false,
