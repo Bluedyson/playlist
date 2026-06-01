@@ -178,6 +178,12 @@
           "url": "https://www.bilibili.com/video/BV1tx41197oM/?spm_id_from=333.337.search-card.all.click&vd_source=ce55fe61212a649a806da97f6b6b2d3d",
           "title": "【泠鸢/KB】故人泪（刚一出就喜欢的歌~）_哔哩哔哩_bilibili",
           "thumb": "//i1.hdslb.com/bfs/archive/3f0df9585539b91518f990c659cd71e3885086a1.jpg@100w_100h_1c.png"
+        },
+        {
+          "id": "1780312222463",
+          "url": "https://www.bilibili.com/video/BV1ku4m1g79k/?vd_source=ce55fe61212a649a806da97f6b6b2d3d",
+          "title": "Hi-Res【磁带试听】新不了情-万芳 为何你还来拨动我心跳_哔哩哔哩_bilibili",
+          "thumb": "//i1.hdslb.com/bfs/archive/2e4b1d18290a5799cb5d47dccfa3a418802eb6ff.jpg@100w_100h_1c.png"
         }
       ]
     },
@@ -632,7 +638,7 @@
       ]
     }
   ],
-  "currentListId": "1779714248790",
+  "currentListId": "1779713734534",
   "currentIndex": 0,
   "playMode": "loop",
   "autoJump": false,
