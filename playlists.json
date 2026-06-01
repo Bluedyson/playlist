@@ -346,6 +346,12 @@
           "url": "https://www.youtube.com/watch?v=4U65GQ_JCZU&list=RDxBqkJOTz6C0&index=50",
           "title": "(103) Zarame - Sixth Magnitude Star / THE FIRST TAKE",
           "thumb": "https://img.youtube.com/vi/4U65GQ_JCZU/mqdefault.jpg"
+        },
+        {
+          "id": "1780285471617",
+          "url": "https://www.youtube.com/watch?v=JUejgIdG-xQ&list=RDxBqkJOTz6C0&index=3",
+          "title": "eill | ラストシーン. (Official Music Video)",
+          "thumb": "https://img.youtube.com/vi/JUejgIdG-xQ/mqdefault.jpg"
         }
       ]
     },
@@ -620,7 +626,7 @@
       ]
     }
   ],
-  "currentListId": "1779714289241",
+  "currentListId": "1779714248790",
   "currentIndex": 0,
   "playMode": "loop",
   "autoJump": false,
