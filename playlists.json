@@ -656,10 +656,10 @@
       ]
     }
   ],
-  "currentListId": "1779714248790",
+  "currentListId": "1779713734534",
   "currentIndex": 0,
   "playMode": "loop",
-  "autoJump": false,
+  "autoJump": true,
   "settings": {
     "autoExpand": true,
     "autoCollapseDelay": 500,
