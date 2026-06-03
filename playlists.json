@@ -656,12 +656,7 @@
       ]
     }
   ],
-  "currentIndex": 0,
+  "currentIndex": 29,
   "playMode": "loop",
-  "autoJump": true,
-  "settings": {
-    "autoExpand": true,
-    "autoCollapseDelay": 500,
-    "themeColor": "#FF6B6B"
-  }
+  "autoJump": true
 }
