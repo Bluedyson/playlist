@@ -739,5 +739,14 @@
         }
       ]
     }
-  ]
+  ],
+  "currentListId": "1779714248790",
+  "currentIndex": 0,
+  "playMode": "sequence",
+  "autoJump": true,
+  "settings": {
+    "autoExpand": true,
+    "autoCollapseDelay": 500,
+    "themeColor": "#FF6B6B"
+  }
 }
